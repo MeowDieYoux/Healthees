@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "692028959616",
+    "firebase_url": "https://healthees-app.firebaseio.com",
+    "project_id": "healthees-app",
+    "storage_bucket": "healthees-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692028959616:android:0764ab00589a5fa9",
+        "android_client_info": {
+          "package_name": "com.healthees.stay.healthees"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692028959616-1u45g4ogptnnbm9ko9tcuhvc6dfjghkm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.healthees.stay.healthees",
+            "certificate_hash": "c4a9eee7d837a91cbab1b8cff97e1abbb99ba07a"
+          }
+        },
+        {
+          "client_id": "692028959616-i33d0u7869p2ib5jhi6gdr72v683i2h5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNdbPqpRHcCfyPkOOraTZ-_lr7tIieiLg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692028959616-i33d0u7869p2ib5jhi6gdr72v683i2h5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
